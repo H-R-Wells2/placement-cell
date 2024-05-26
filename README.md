@@ -80,10 +80,6 @@ Follow these steps to set up the project on your local system.
 
     Download a complete CSV of all data.
 
-- **External Jobs List:**
-
-    View a list of available React/Node.js jobs in India.
-
 ### Additional Information
 
 For detailed information about each feature and how to use it, refer to the comments within the code files and the provided `views`.
