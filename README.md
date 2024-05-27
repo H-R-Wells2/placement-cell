@@ -87,3 +87,5 @@ For detailed information about each feature and how to use it, refer to the comm
 ## Video Walkthrough
 
 [Watch the video walkthrough](https://drive.google.com/file/d/1Z-qAWjYHuSP3yPT4R7_HbejdumkIsX49/view?usp=drive_link) explaining the folder structure and project setup.
+
+# Update for deploymet
